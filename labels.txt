@@ -1,0 +1,5 @@
+person
+queue
+crowd
+overcrowded_area
+normal_area
